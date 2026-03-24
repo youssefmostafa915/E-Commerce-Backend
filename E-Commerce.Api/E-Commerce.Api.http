@@ -1,0 +1,65 @@
+@E_Commerce.Api_HostAddress = http://localhost:5000
+
+### Register a new user
+POST {{E_Commerce.Api_HostAddress}}/api/user/register
+Content-Type: application/json
+
+{
+  "fullName": "John Doe",
+  "email": "john.doe@example.com",
+  "password": "Password123!",
+  "phoneNumber": "1234567890"
+}
+
+### Verify user email
+POST {{E_Commerce.Api_HostAddress}}/api/user/verify-email
+Content-Type: application/json
+
+{
+  "email": "john.doe@example.com",
+  "code": "123456"
+}
+
+### Login user
+POST {{E_Commerce.Api_HostAddress}}/api/user/login
+Content-Type: application/json
+
+{
+  "email": "john.doe@example.com",
+  "password": "Password123!"
+}
+
+### Create a Product (Test the Create Logic)
+POST {{E_Commerce.Api_HostAddress}}/api/products
+Content-Type: application/json
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+{
+  "name": "First Project Laptop",
+  "description": "Created this alone!",
+  "priceAmount": 1200.50,
+  "currency": "USD",
+  "operationType": 0
+}
+
+### Get All Products (Test the Read Logic)
+GET {{E_Commerce.Api_HostAddress}}/api/products
+Content-Type: application/json
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+{
+  "operationType": 4
+}
+
+### Add item to cart
+POST {{E_Commerce.Api_HostAddress}}/api/cart/add
+Content-Type: application/json
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+{
+  "productId": "PRODUCT_ID_HERE",
+  "productName": "Laptop",
+  "unitPrice": 1200.50,
+  "quantity": 1,
+  "imageUrl": "https://example.com/laptop.jpg"
+}

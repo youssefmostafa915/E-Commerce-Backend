@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "qwg6lG9Te8c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Youssef.Mostafa\\Desktop\\C# Course\\E-Commerce\\src\\E-Commerce.Application\\E-Commerce.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Youssef.Mostafa\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512",
+    "C:\\Users\\Youssef.Mostafa\\.nuget\\packages\\mediatr\\14.0.0\\mediatr.14.0.0.nupkg.sha512",
+    "C:\\Users\\Youssef.Mostafa\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Youssef.Mostafa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Youssef.Mostafa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Youssef.Mostafa\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.16.0\\microsoft.identitymodel.abstractions.8.16.0.nupkg.sha512",
+    "C:\\Users\\Youssef.Mostafa\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.16.0\\microsoft.identitymodel.jsonwebtokens.8.16.0.nupkg.sha512",
+    "C:\\Users\\Youssef.Mostafa\\.nuget\\packages\\microsoft.identitymodel.logging\\8.16.0\\microsoft.identitymodel.logging.8.16.0.nupkg.sha512",
+    "C:\\Users\\Youssef.Mostafa\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.16.0\\microsoft.identitymodel.tokens.8.16.0.nupkg.sha512",
+    "C:\\Users\\Youssef.Mostafa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
+    "C:\\Users\\Youssef.Mostafa\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.16.0\\system.identitymodel.tokens.jwt.8.16.0.nupkg.sha512"
+  ],
+  "logs": []
+}

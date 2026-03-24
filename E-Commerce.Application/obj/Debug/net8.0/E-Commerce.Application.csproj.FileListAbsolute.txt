@@ -1,0 +1,15 @@
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Application.deps.json
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Application.dll
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Application.pdb
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Domain.dll
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Domain.pdb
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.csproj.AssemblyReference.cache
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.AssemblyInfoInputs.cache
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.AssemblyInfo.cs
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\obj\Debug\net8.0\E-Commer.B20A53FF.Up2Date
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.dll
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\obj\Debug\net8.0\refint\E-Commerce.Application.dll
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.pdb
+C:\Users\Youssef.Mostafa\Desktop\C# Course\E-Commerce\src\E-Commerce.Application\obj\Debug\net8.0\ref\E-Commerce.Application.dll
